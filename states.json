@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "ref": { "lat": 32.3182314, "lng": -86.902298 },
+    "bounds": {
+      "north": 35.008028,
+      "east": -84.888246,
+      "south": 30.144425,
+      "west": -88.4732269
+    }
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "ref": { "lat": 64.2008413, "lng": -149.4936733 },
+    "bounds": {
+      "north": 71.441059,
+      "east": -129.9795109,
+      "south": 51.175092,
+      "west": 172.3478461
+    }
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "ref": { "lat": 34.0489281, "lng": -111.0937311 },
+    "bounds": {
+      "north": 37.0042599,
+      "east": -109.0452231,
+      "south": 31.3325693,
+      "west": -114.8138273
+    }
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "ref": { "lat": 35.20105, "lng": -91.8318334 },
+    "bounds": {
+      "north": 36.4997491,
+      "east": -89.64483790000001,
+      "south": 33.0041059,
+      "west": -94.61791900000001
+    }
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "ref": { "lat": 36.778261, "lng": -119.4179324 },
+    "bounds": {
+      "north": 42.0095169,
+      "east": -114.131211,
+      "south": 32.528832,
+      "west": -124.482003
+    }
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "ref": { "lat": 39.5500507, "lng": -105.7820674 },
+    "bounds": {
+      "north": 41.0034439,
+      "east": -102.040878,
+      "south": 36.992424,
+      "west": -109.060256
+    }
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "ref": { "lat": 41.6032207, "lng": -73.087749 },
+    "bounds": {
+      "north": 42.050587,
+      "east": -71.787239,
+      "south": 40.950943,
+      "west": -73.727775
+    }
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "ref": { "lat": 38.9108325, "lng": -75.52766989999999 },
+    "bounds": {
+      "north": 39.8394839,
+      "east": -74.98416499999999,
+      "south": 38.451018,
+      "west": -75.78914790000002
+    }
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "ref": { "lat": 27.6648274, "lng": -81.5157535 },
+    "bounds": {
+      "north": 31.000968,
+      "east": -79.974306,
+      "south": 24.396308,
+      "west": -87.634896
+    }
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "ref": { "lat": 32.1656221, "lng": -82.9000751 },
+    "bounds": {
+      "north": 35.0006589,
+      "east": -80.751429,
+      "south": 30.3555908,
+      "west": -85.6051649
+    }
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "ref": { "lat": 19.8967662, "lng": -155.5827818 },
+    "bounds": {
+      "north": 28.517269,
+      "east": -154.7557919,
+      "south": 18.86546,
+      "west": -178.4435931
+    }
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "ref": { "lat": 44.0682019, "lng": -114.7420408 },
+    "bounds": {
+      "north": 49.0008462,
+      "east": -111.043495,
+      "south": 41.9880051,
+      "west": -117.243027
+    }
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "ref": { "lat": 40.6331249, "lng": -89.3985283 },
+    "bounds": {
+      "north": 42.5083379,
+      "east": -87.01993499999999,
+      "south": 36.970298,
+      "west": -91.5130789
+    }
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "ref": { "lat": 40.2671941, "lng": -86.1349019 },
+    "bounds": {
+      "north": 41.761368,
+      "east": -84.784662,
+      "south": 37.7717419,
+      "west": -88.097892
+    }
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "ref": { "lat": 41.8780025, "lng": -93.097702 },
+    "bounds": {
+      "north": 43.5011961,
+      "east": -90.1400609,
+      "south": 40.375437,
+      "west": -96.639535
+    }
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "ref": { "lat": 39.011902, "lng": -98.4842465 },
+    "bounds": {
+      "north": 40.0045419,
+      "east": -94.588387,
+      "south": 36.9930159,
+      "west": -102.0517688
+    }
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "ref": { "lat": 37.8393332, "lng": -84.2700179 },
+    "bounds": {
+      "north": 39.147458,
+      "east": -81.9649708,
+      "south": 36.4971289,
+      "west": -89.5715089
+    }
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "ref": { "lat": 30.9842977, "lng": -91.96233269999999 },
+    "bounds": {
+      "north": 33.019544,
+      "east": -88.758388,
+      "south": 28.8551271,
+      "west": -94.043352
+    }
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "ref": { "lat": 45.253783, "lng": -69.4454689 },
+    "bounds": {
+      "north": 47.459833,
+      "east": -66.885417,
+      "south": 42.91712589999999,
+      "west": -71.084397
+    }
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "ref": { "lat": 39.0457549, "lng": -76.64127119999999 },
+    "bounds": {
+      "north": 39.723037,
+      "east": -74.9862819,
+      "south": 37.8866049,
+      "west": -79.4876511
+    }
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "ref": { "lat": 42.4072107, "lng": -71.3824374 },
+    "bounds": {
+      "north": 42.88679,
+      "east": -69.85886099999999,
+      "south": 41.18705300000001,
+      "west": -73.5081419
+    }
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "ref": { "lat": 44.3148443, "lng": -85.60236429999999 },
+    "bounds": {
+      "north": 48.3056044,
+      "east": -82.1229766,
+      "south": 41.696118,
+      "west": -90.4181358
+    }
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "ref": { "lat": 46.729553, "lng": -94.6858998 },
+    "bounds": {
+      "north": 49.384358,
+      "east": -89.4838122,
+      "south": 43.499361,
+      "west": -97.2391959
+    }
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "ref": { "lat": 32.3546679, "lng": -89.3985283 },
+    "bounds": {
+      "north": 34.9961091,
+      "east": -88.097888,
+      "south": 30.146096,
+      "west": -91.6550089
+    }
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "ref": { "lat": 37.9642529, "lng": -91.8318334 },
+    "bounds": {
+      "north": 40.61364,
+      "east": -89.09949399999999,
+      "south": 35.9956829,
+      "west": -95.774704
+    }
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "ref": { "lat": 46.8796822, "lng": -110.3625658 },
+    "bounds": {
+      "north": 49.0011117,
+      "east": -104.039563,
+      "south": 44.3582089,
+      "west": -116.050003
+    }
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "ref": { "lat": 41.4925374, "lng": -99.9018131 },
+    "bounds": {
+      "north": 43.00170689999999,
+      "east": -95.30829000000001,
+      "south": 39.999932,
+      "west": -104.053514
+    }
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "ref": { "lat": 38.8026097, "lng": -116.419389 },
+    "bounds": {
+      "north": 42.002207,
+      "east": -114.0396479,
+      "south": 35.001857,
+      "west": -120.0064729
+    }
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "ref": { "lat": 43.1938516, "lng": -71.5723953 },
+    "bounds": {
+      "north": 45.3057779,
+      "east": -70.57509399999999,
+      "south": 42.696985,
+      "west": -72.55718499999999
+    }
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "ref": { "lat": 40.0583238, "lng": -74.4056612 },
+    "bounds": {
+      "north": 41.357423,
+      "east": -73.88506,
+      "south": 38.788657,
+      "west": -75.5635861
+    }
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "ref": { "lat": 34.5199402, "lng": -105.8700901 },
+    "bounds": {
+      "north": 37.0002931,
+      "east": -103.001964,
+      "south": 31.3322529,
+      "west": -109.050173
+    }
+  },
+  {
+    "name": "New York",
+    "abbreviation": "New York",
+    "ref": { "lat": 40.7127753, "lng": -74.0059728 },
+    "bounds": {
+      "north": 40.9175771,
+      "east": -73.70027209999999,
+      "south": 40.4773991,
+      "west": -74.25908989999999
+    }
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "ref": { "lat": 35.7595731, "lng": -79.01929969999999 },
+    "bounds": {
+      "north": 36.5881568,
+      "east": -75.400119,
+      "south": 33.7528778,
+      "west": -84.32186899999999
+    }
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "ref": { "lat": 47.5514926, "lng": -101.0020119 },
+    "bounds": {
+      "north": 49.0005565,
+      "east": -96.554491,
+      "south": 45.9350719,
+      "west": -104.05004
+    }
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "ref": { "lat": 40.4172871, "lng": -82.90712300000001 },
+    "bounds": {
+      "north": 42.323374,
+      "east": -80.5182,
+      "south": 38.4034229,
+      "west": -84.8203049
+    }
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "ref": { "lat": 35.0077519, "lng": -97.092877 },
+    "bounds": {
+      "north": 37.0023119,
+      "east": -94.430662,
+      "south": 33.615787,
+      "west": -103.002455
+    }
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "ref": { "lat": 43.8041334, "lng": -120.5542012 },
+    "bounds": {
+      "north": 46.299099,
+      "east": -116.463262,
+      "south": 41.9917941,
+      "west": -124.7035411
+    }
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "ref": { "lat": 41.2033216, "lng": -77.1945247 },
+    "bounds": {
+      "north": 42.5141658,
+      "east": -74.6895018,
+      "south": 39.7197989,
+      "west": -80.51989499999999
+    }
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "ref": { "lat": 41.5800945, "lng": -71.4774291 },
+    "bounds": {
+      "north": 42.0188,
+      "east": -71.0885709,
+      "south": 41.095834,
+      "west": -71.90725809999999
+    }
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "ref": { "lat": 33.836081, "lng": -81.1637245 },
+    "bounds": {
+      "north": 35.2155401,
+      "east": -78.49930090000001,
+      "south": 32.033454,
+      "west": -83.35392800000001
+    }
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "ref": { "lat": 43.9695148, "lng": -99.9018131 },
+    "bounds": {
+      "north": 45.945713,
+      "east": -96.436589,
+      "south": 42.479686,
+      "west": -104.0577391
+    }
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "ref": { "lat": 35.5174913, "lng": -86.5804473 },
+    "bounds": {
+      "north": 36.678118,
+      "east": -81.6469,
+      "south": 34.9829239,
+      "west": -90.3102978
+    }
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "ref": { "lat": 31.9685988, "lng": -99.9018131 },
+    "bounds": {
+      "north": 36.5007041,
+      "east": -93.5080389,
+      "south": 25.8371638,
+      "west": -106.6456461
+    }
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "ref": { "lat": 39.3209801, "lng": -111.0937311 },
+    "bounds": {
+      "north": 42.001618,
+      "east": -109.0410581,
+      "south": 36.99790309999999,
+      "west": -114.0529979
+    }
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "ref": { "lat": 44.5588028, "lng": -72.57784149999999 },
+    "bounds": {
+      "north": 45.016658,
+      "east": -71.46503899999999,
+      "south": 42.7268499,
+      "west": -73.437905
+    }
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "ref": { "lat": 37.4315734, "lng": -78.6568942 },
+    "bounds": {
+      "north": 39.466012,
+      "east": -75.1664349,
+      "south": 36.5407589,
+      "west": -83.675415
+    }
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "ref": { "lat": 47.7510741, "lng": -120.7401385 },
+    "bounds": {
+      "north": 49.0024442,
+      "east": -116.91558,
+      "south": 45.543541,
+      "west": -124.8489739
+    }
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "ref": { "lat": 38.5976262, "lng": -80.4549026 },
+    "bounds": {
+      "north": 40.638801,
+      "east": -77.7189679,
+      "south": 37.2015399,
+      "west": -82.644413
+    }
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "ref": { "lat": 43.7844397, "lng": -88.7878678 },
+    "bounds": {
+      "north": 47.3098219,
+      "east": -86.2495479,
+      "south": 42.4917199,
+      "west": -92.88943309999999
+    }
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "ref": { "lat": 43.0759678, "lng": -107.2902839 },
+    "bounds": {
+      "north": 45.005904,
+      "east": -104.0522449,
+      "south": 40.994746,
+      "west": -111.056889
+    }
+  }
+]

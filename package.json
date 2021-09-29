@@ -1,0 +1,16 @@
+{
+  "name": "random-address-generator",
+  "version": "1.0.0",
+  "description": "A random address generator using Google Maps Geocoding API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Butler <josh@emkaytec.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.2.2",
+    "faker": "^5.5.3",
+    "usps-webtools": "^1.0.7"
+  }
+}
