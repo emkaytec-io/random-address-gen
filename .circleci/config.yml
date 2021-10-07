@@ -1,0 +1,16 @@
+version: 2.1
+
+orbs:
+  aws-ecr: circleci/aws-ecr@7.0.0
+
+workflows:
+  build_and_publish:
+    jobs:
+      - aws-ecr/build-and-push-image:
+          attach-workspace: true
+          checkout: false
+          context: emkaytec-io-aws
+          repo: random-address-generator
+          filters:
+            branches:
+              only: master
