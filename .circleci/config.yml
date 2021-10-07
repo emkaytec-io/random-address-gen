@@ -13,4 +13,4 @@ workflows:
           repo: random-address-generator
           filters:
             branches:
-              only: master
+              only: main
