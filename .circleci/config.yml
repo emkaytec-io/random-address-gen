@@ -2,9 +2,20 @@ version: 2.1
 
 orbs:
   aws-ecr: circleci/aws-ecr@7.2.0
+  aws-cli: circleci/aws-cli@2.0.3
+
+jobs:
+  deploy-lambda-function:
+    executor: aws-cli/default
+    steps:
+      - aws-cli/setup
+      - run: aws lambda update-function-code \
+          --region us-east-1 \
+          --function-name random-address-generator \
+          --image-uri 120015694021.dkr.ecr.us-east-1.amazonaws.com/random-address-generator:latest
 
 workflows:
-  build_and_publish:
+  deploy:
     jobs:
       - aws-ecr/build-and-push-image:
           context: emkaytec-io-aws
@@ -12,3 +23,7 @@ workflows:
           filters:
             branches:
               only: main
+      - aws-cli:
+          jobs:
+            - deploy-lambda-function:
+                context: emkaytec-io-aws
