@@ -23,7 +23,5 @@ workflows:
           filters:
             branches:
               only: main
-      - aws-cli:
-          jobs:
-            - deploy-lambda-function:
-                context: emkaytec-io-aws
+      - deploy-lambda-function:
+          context: emkaytec-io-aws
