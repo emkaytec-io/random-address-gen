@@ -25,3 +25,5 @@ workflows:
               only: main
       - deploy-lambda-function:
           context: emkaytec-io-aws
+          requires:
+            - aws-ecr/build-and-push-image
